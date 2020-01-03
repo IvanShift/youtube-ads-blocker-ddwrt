@@ -1,3 +1,7 @@
+# Fork update
+
+You can also add the [domainlists.txt](https://raw.githubusercontent.com/T81/youtube-ads-blocker-ddwrt/master/domainlist.txt) as usual in your AD-BLOCK script
+
 # Blocking All Youtube Video Advertisements
 Youtube Video ADs blocker for DDWRT with Unbound DNS
 
